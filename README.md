@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prem Kumar
 
 🎓 B.E. in Computer Science   
-💻 Python & Django Developer  
+💻 Python / Full-Stack Developer & Data Engineer
 
 ---
 
@@ -9,6 +9,8 @@
 - Python
 - Django
 - SQL
+- ETL Data Process
+- MongoDB , Pandas
 - HTML, CSS, JavaScript
 - Git & GitHub
 
@@ -22,7 +24,7 @@
   
 🔗 https://github.com/premkumar-62/Detection-and-Mitigation-of-Fake-Social-Media-Profiles
 
-### Online Quiz App
+### Student Performance Analytics System
   - Built a Django-based quiz application with user authentication
   - Implemented timed quizzes, automatic scoring, and result display
   - Enabled admins to manage questions, quizzes, and users through an admin panel
@@ -35,7 +37,11 @@
   - Designed a clean UI for smooth user experience and order management
   🔗 https://github.com/premkumar-62/Online-Food-Ordering-System
 
-
+### ETL Data Pipeline Stimulation Project
+  - Extracted raw data from CSV files.
+  - Transformed and cleaned data using Pandas (filtering, grouping, aggregation).
+  - Designed ETL workflow to process and load 5,000+ records into MySQL database, enabling structured querying and analysis.
+    
 ---
 
 ## 📫 Contact Me

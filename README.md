@@ -35,6 +35,7 @@
   - Developed a full-stack web application for online food ordering
   - Implemented user login, restaurant menu display, cart, and order placement 
   - Designed a clean UI for smooth user experience and order management
+    
   🔗 https://github.com/premkumar-62/Online-Food-Ordering-System
 
 ### ETL Data Pipeline Stimulation Project

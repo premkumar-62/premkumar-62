@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prem Kumar
 
 🎓 B.E. in Computer Science   
-💻 Python / Full-Stack Developer & Data Engineer
+💻 Python / Full-Stack Developer , Data Engineer
 
 ---
 

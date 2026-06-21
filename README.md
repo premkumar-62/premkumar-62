@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prem Kumar
 
 🎓 B.E. in Computer Science   
-💻 Python / Full-Stack Developer , Data Engineer
+💻 Software Engineer, Python / Full-Stack Developer , Data Engineer
 
 ---
 
@@ -10,7 +10,7 @@
 - Django
 - SQL
 - ETL Data Process
-- MongoDB , Pandas
+- MongoDB , Pandas, Numpy
 - HTML, CSS, JavaScript
 - Git & GitHub
 

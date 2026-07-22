@@ -10,9 +10,9 @@
 - Django
 - SQL
 - ETL Data Process
-- MongoDB , Pandas, Numpy
+- REST API, MongoDB , Pandas, Numpy
 - HTML, CSS, JavaScript
-- Git & GitHub
+- Git, GitHub, VS Code
 
 ---
 
